@@ -1,0 +1,10 @@
+subjects=["python","java","c","c++","php","oracle"]
+print(subjects)
+subjects.sort()
+print(subjects)
+subjects.reverse()
+print(subjects)
+print(subjects.count("java"))
+print(subjects.pop())
+subjects.clear()
+print(subjects)

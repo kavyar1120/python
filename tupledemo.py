@@ -1,0 +1,5 @@
+sub=("c","java","python","c++")
+print(type(sub))
+print(sub)
+print(len(sub))
+print(sub.index("java"))

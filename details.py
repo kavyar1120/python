@@ -1,0 +1,6 @@
+name=input("enter your name:")
+email=input("enter your email id:")
+mobile=input("enter your mobile no:")
+print(name)
+print(email)
+print(mobile)
